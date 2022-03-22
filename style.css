@@ -21,3 +21,13 @@ body{
   max-width: 480px;
   margin: 14px 0;
 }
+.container-input span{
+  color: #fff;
+  font-size: 22px;
+}
+.slider{
+  -webkit-appearance: none;
+  width: 100%;
+  border-radius: 5px;
+  background-color: #dfdfdf;
+}
