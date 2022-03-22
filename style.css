@@ -34,3 +34,14 @@ body{
   outline: none;
   margin-top: 8px;
 }
+.buttom-cta{
+  height: 40px;
+  background-color: #3eb72b;
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 40px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+}
