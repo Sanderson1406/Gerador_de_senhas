@@ -30,4 +30,7 @@ body{
   width: 100%;
   border-radius: 5px;
   background-color: #dfdfdf;
+  height: 18px;
+  outline: none;
+  margin-top: 8px;
 }
